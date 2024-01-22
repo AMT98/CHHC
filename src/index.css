@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  scroll-behavior: smooth;
+  overflow:hidden;
+}
+
+.gradient {
+  background: linear-gradient(90deg, #A4C6AF 0%, #F3FADC 100%);
+}
+.gradientText {
+  background: linear-gradient(90deg, #A4C6AF 0%, #FFFFFF 100%);
+}
+.active {
+  font-weight: bold;
+  text-decoration: underline;
+  
+}
