@@ -108,7 +108,7 @@ const Navbar = () => {
         <div className="flex items-center">
           <button onClick={handleHomeClick}>
             <img
-              className="toggleColour w-auto max-w-[190px] ml-2"
+              className="toggleColour w-auto max-w-[190px] ml-4 md:ml-0"
               src={CaringhandsLogo}
               alt="logo"
             />
