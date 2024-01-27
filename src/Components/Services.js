@@ -25,7 +25,7 @@ const Services = () => {
     window.scrollTo(0, 0);
   };
   return (
-    <>
+    <div className="mt-24 md:mt-0">
       <div classNameName="relative -mt-12 lg:-mt-24">
         <svg
           viewBox="0 0 1428 174"
@@ -428,7 +428,7 @@ const Services = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

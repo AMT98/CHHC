@@ -5,7 +5,7 @@ import { staggerContainer, textVariant, fadeIn } from "../utils/motion";
 
 const Contact = () => {
   return (
-    <>
+    <div className="mt-24 md:mt-0">
       <div classNameName="relative -mt-12 lg:-mt-24">
         <svg
           viewBox="0 0 1428 174"
@@ -235,7 +235,7 @@ const Contact = () => {
           </div>
         </motion.div>
       </div>
-    </>
+    </div>
   );
 };
 

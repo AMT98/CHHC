@@ -5,7 +5,7 @@ import shyamDai from "../Assets/shyamDaiv2.jpg";
 
 const Team = () => {
   return (
-    <>
+    <div className="mt-24 md:mt-0">
       <div classNameName="relative -mt-12 lg:-mt-24">
         <svg
           viewBox="0 0 1428 174"
@@ -296,7 +296,7 @@ const Team = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

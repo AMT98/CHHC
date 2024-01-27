@@ -3,7 +3,7 @@ import missionPic from "../Assets/missionPic.jpg";
 
 const About = () => {
   return (
-    <>
+    <div className="mt-24 md:mt-0">
       <div classNameName="relative -mt-12 lg:-mt-24">
         <svg
           viewBox="0 0 1428 174"
@@ -671,7 +671,7 @@ const About = () => {
           </div>
         </div>
       </section>
-    </>
+    </div>
   );
 };
 
