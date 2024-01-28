@@ -174,16 +174,18 @@ const Navbar = () => {
                 Our Team
               </NavLink>
             </li>
-            <NavLink
-              id="navAction"
-              className="mx-auto mt-12 lg:mx-0 hover:underline border-[white] bg-white text-gray-900 font-bold rounded-full lg:mt-0 py-4 px-8 shadow-2xl opacity-50 border p-4 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300"
-              to="/contact"
-              activeClassName="active"
-            >
-              Contact Us
-            </NavLink>
-            {/* <button className="mr-3 mt-6 lg:mt-0">
+            <li className="mr-3 mt-6 md:mt-0">
+              <NavLink
+                id="navAction"
+                className="mx-auto lg:mx-0 hover:underline border-[white] bg-white text-gray-900 font-bold rounded-full lg:mt-0 py-4 px-8 shadow-2xl opacity-50 border p-4 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300"
+                to="/contact"
+                activeClassName="active"
+              >
+                Contact Us
+              </NavLink>
+              {/* <button className="mr-3 mt-6 lg:mt-0">
             </button> */}
+            </li>
           </ul>
         </div>
         <hr className="border-b border-gray-100 opacity-25 my-0 py-0" />
