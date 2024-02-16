@@ -74,7 +74,7 @@ const Contact = () => {
                     </h2>
                   </div>
                   <form
-                    action="https://getform.io/f/1f412880-a23e-4e02-a4b6-d90ed618204a"
+                    action="https://getform.io/f/NbW5Dvey"
                     method="POST"
                     className="mx-auto mt-16 max-w-xl sm:mt-20"
                   >
