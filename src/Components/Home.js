@@ -27,13 +27,12 @@ const Home = () => {
         <motion.div
           variants={staggerContainer}
           initial="hidden"
-          whileInView="show"
-          viewport={{ once: true, amount: 0.25 }}
-          className="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center"
+          animate="show"
+          className="container px-3 mx-auto flex flex-wrap flex-col lg:flex-row items-center"
         >
           <motion.div
             variants={fadeIn("right", "tween", 0.2, 1)}
-            className="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left"
+            className="flex flex-col w-full md:w-2/5 justify-center items-center lg:items-start text-center md:text-left"
           >
             <p className="uppercase tracking-loose w-full">
               Compassionate Care for Your Loved Ones in the Comfort of Home{" "}
@@ -47,14 +46,14 @@ const Home = () => {
 
             <button
               onClick={handleContactClick}
-              className="mx-auto gradient lg:mx-0 hover:underline bg-white text-gray-800 font-bold border-[white] rounded-full my-6 py-4 px-8 shadow-lg  transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300"
+              className="mx-auto gradient lg:mx-0 hover:underline bg-white text-gray-800 font-bold border-[white] rounded-full my-6 py-4 px-8 shadow-lg transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300"
             >
               Contact Us
             </button>
           </motion.div>
           <motion.div
             variants={textVariant(1.1)}
-            className="flex flex-col lg:ml-[200px]  w-full md:w-2/5 justify-end items-end text-end md:text-left"
+            className="flex flex-col lg:ml-[8rem] w-full md:w-2/5 justify-end items-end text-end md:text-left"
           >
             <img
               className="rounded-xl shadow-2xl"
