@@ -84,23 +84,19 @@ const Team = () => {
                     transportation to provide safe and reliable transportation
                     services for Medicaid members.
                   </p>
-                  <p className="mt-8">
+
+                  <p className="mt-6">
                     My team and I wanted to ensure that Namaste became the
                     bridge between community members and health providers so
                     that members can receive health care regardless of the
-                    unfortunate barriers. As the owner of Namaste
-                    Transportation, I had the opportunity to meet with community
-                    members, learn about their needs, feelings, experiences, and
-                    build a robust relationship with them.
-                  </p>
-                  <p className="mt-8">
-                    In 2023, I decided to establish Caring Hands Home Care LLC
-                    along with my two partners Chhusang and Dj to help the
-                    seniors, elderly, mentally and physically challenged adults
-                    to provide home care services in the comfort of their own
-                    home. Our hope is that we prioritize our client’s needs and
-                    health with utmost respect, care, and morale and lead our
-                    clients to living long, healthy, and fulfilling lives."
+                    unfortunate barriers. In 2023, I decided to establish Caring
+                    Hands Home Care LLC along with my two partners Chhusang and
+                    Dj to help the seniors, elderly, mentally and physically
+                    challenged adults to provide home care services in the
+                    comfort of their own home. Our hope is that we prioritize
+                    our client’s needs and health with utmost respect, care, and
+                    morale and lead our clients to living long, healthy, and
+                    fulfilling lives. "
                   </p>
                 </div>
               </div>

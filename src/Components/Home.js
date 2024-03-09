@@ -34,13 +34,13 @@ const Home = () => {
             variants={fadeIn("right", "tween", 0.2, 1)}
             className="flex flex-col w-full md:w-2/5 justify-center items-center lg:items-start text-center md:text-left"
           >
-            <p className="uppercase tracking-loose w-full">
+            <p className="uppercase tracking-loose w-full text-gray-500">
               Compassionate Care for Your Loved Ones in the Comfort of Home{" "}
             </p>
             <h1 className="my-4 text-5xl font-bold leading-tight text-[#F3FADC]">
               Caring Hands Home Care
             </h1>
-            <p className="leading-normal text-xl mb-8 uppercase">
+            <p className="leading-normal text-xl mb-8 uppercase text-gray-500">
               Because home is where the heart is.
             </p>
 
