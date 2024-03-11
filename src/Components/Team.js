@@ -77,12 +77,23 @@ const Team = () => {
                     my motivation and desire to help. Many community members
                     were missing hospital appointments, medicine refilling due
                     to barriers such as lack of transportation and English
-                    speaking ability. As a home and day care owner for several
-                    years, I have worked with numerous clients and was able to
-                    maintain an outstanding relationship with the clients and
-                    communities served. In 2019, I started non-emergency medical
-                    transportation to provide safe and reliable transportation
-                    services for Medicaid members.
+                    speaking ability. Many others were missing work to take care
+                    of elderly and ill family members, resulting in pay cuts and
+                    thus, impacting the quality of life. I started my journey in
+                    the home care industry in 2019 as a medium to assist the
+                    marginalized communities to enable them to make money and
+                    become financially independent by taking care of their
+                    family members who are elderly and/or have disability or
+                    long term illness.
+                  </p>
+                  <p className="mt-6">
+                    {" "}
+                    As a home and day care owner for several years, I have
+                    worked with numerous clients and was able to maintain an
+                    outstanding relationship with the clients and communities
+                    served. In the same year, 2019, I also started non-emergency
+                    medical transportation to provide safe and reliable
+                    transportation services for Medicaid members.
                   </p>
 
                   <p className="mt-6">
