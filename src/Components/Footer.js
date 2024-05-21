@@ -125,7 +125,7 @@ const Footer = () => {
             <ul className="list-reset mb-6">
               <li className="mt-2 inline-block mr-2 md:block md:mr-0">
                 <a
-                  href="#"
+                  href="https://m.facebook.com/people/Caring-Hands-Home-Care/61560055916100/"
                   className="no-underline hover:underline text-gray-800 hover:text-[#A4C6AF]"
                 >
                   Facebook
