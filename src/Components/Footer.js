@@ -72,10 +72,10 @@ const Footer = () => {
           14201 E 4th Ave. Ste. 4-260 Aurora CO 80011
         </p>
         <p className="text-black">
-          <span className="font-bold">Office.</span> (303) 340-5809
+          <span className="font-bold">Office.</span> (303) 955-4856
         </p>
         <p className="text-black">
-          <span className="font-bold">Fax. </span>(303) 340-0336
+          <span className="font-bold">Fax. </span>(303) 955-4870
         </p>
         <button
           onClick={handleContactClick}
