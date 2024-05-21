@@ -38,7 +38,7 @@ const Home = () => {
               Compassionate Care for Your Loved Ones in the Comfort of Home{" "}
             </p>
             <h1 className="my-4 text-5xl font-bold leading-tight text-[#F3FADC]">
-              Caring Hands Home Care
+              Caring <span className="text-[#ACCBB4] md:text-[#F3FADC]">Hands</span> Home <span className="text-[#ACCBB4] md:text-[#F3FADC]">Care</span>
             </h1>
             <p className="leading-normal text-xl mb-8 uppercase text-gray-500">
               Because home is where the heart is.
