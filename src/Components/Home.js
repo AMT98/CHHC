@@ -23,7 +23,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="pt-24 mt-12">
+      <div className="pt-24 mt-12 ">
         <motion.div
           variants={staggerContainer}
           initial="hidden"

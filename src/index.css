@@ -9,7 +9,9 @@
   font-family: 'Open Sans', sans-serif;
   scroll-behavior: smooth;
 }
-
+html, body {
+  overflow-x: hidden;
+}
 .gradient {
   background: linear-gradient(90deg, #A4C6AF 0%, #F3FADC 100%);
 }
