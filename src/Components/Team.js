@@ -74,40 +74,41 @@ const Team = () => {
                     community works since a young age. As a refugee immigrant
                     who moved to the US, I had the opportunity to witness and
                     experience the struggles of community members which ignited
-                    my motivation and desire to help. Many community members
-                    were missing hospital appointments, medicine refilling due
-                    to barriers such as lack of transportation and English
-                    speaking ability. Many others were missing work to take care
-                    of elderly and ill family members, resulting in pay cuts and
-                    thus, impacting the quality of life. I started my journey in
-                    the home care industry in 2019 as a medium to assist the
-                    marginalized communities to enable them to make money and
-                    become financially independent by taking care of their
-                    family members who are elderly and/or have disability or
-                    long term illness.
+                    my motivation and desire to help. I found many community
+                    members and others were missing work to take care of elderly
+                    and ill family members, resulting in pay cuts and thus,
+                    impacting the quality of life. With the intention to help
+                    such people, I started my journey in the home care industry
+                    in 2018 as a medium to assist the marginalized communities
+                    to enable them to make money and become financially
+                    independent by taking care of their family members who are
+                    elderly and/or have disability or long term illness. As a
+                    home and day care owner for several years, I have worked
+                    with numerous clients and was able to maintain an
+                    outstanding relationship with the clients and communities
+                    served.
                   </p>
                   <p className="mt-6">
                     {" "}
-                    As a home and day care owner for several years, I have
-                    worked with numerous clients and was able to maintain an
-                    outstanding relationship with the clients and communities
-                    served. In the same year, 2019, I also started non-emergency
-                    medical transportation to provide safe and reliable
-                    transportation services for Medicaid members.
+                    In the year, 2019, I also started non-emergency medical
+                    transportation to provide safe and reliable transportation
+                    services for Medicaid members. Many community members were
+                    missing hospital appointments, medicine refilling due to
+                    barriers such as lack of transportation and English speaking
+                    ability. My team and I wanted to ensure that Namaste became
+                    the bridge between community members and health providers so
+                    that members can receive health care regardless of the
+                    unfortunate barriers.
                   </p>
 
                   <p className="mt-6">
-                    My team and I wanted to ensure that Namaste became the
-                    bridge between community members and health providers so
-                    that members can receive health care regardless of the
-                    unfortunate barriers. In 2023, I decided to establish Caring
-                    Hands Home Care LLC along with my two partners Chhusang and
-                    Dj to help the seniors, elderly, mentally and physically
-                    challenged adults to provide home care services in the
-                    comfort of their own home. Our hope is that we prioritize
-                    our client’s needs and health with utmost respect, care, and
-                    morale and lead our clients to living long, healthy, and
-                    fulfilling lives. "
+                    In 2023, I decided to establish Caring Hands Home Care LLC
+                    along with my two partners Chhusang and Dj to help the
+                    seniors, elderly, mentally and physically challenged adults
+                    to provide home care services in the comfort of their own
+                    home. Our hope is that we prioritize our client’s needs and
+                    health with utmost respect, care, and morale and lead our
+                    clients to living long, healthy, and fulfilling lives. "
                   </p>
                 </div>
               </div>
