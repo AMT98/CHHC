@@ -69,7 +69,7 @@ const Footer = () => {
         </h3>
 
         <p className="text-black font-bold">
-          14201 E 4th Ave. Ste. 4-260 Aurora CO 80011
+          14201 E 4th Ave. Ste. 4-200 Aurora CO 80011
         </p>
         <p className="text-black">
           <span className="font-bold">Office.</span> (303) 955-4856
