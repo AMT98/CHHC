@@ -70,45 +70,42 @@ const Team = () => {
                 </p>
                 <div className="max-w-base text-sm italic ">
                   <p className="mt-6">
-                    "I am a community person who has been involved with
-                    community works since a young age. As a refugee immigrant
-                    who moved to the US, I had the opportunity to witness and
-                    experience the struggles of community members which ignited
-                    my motivation and desire to help. I found many community
-                    members and others were missing work to take care of elderly
-                    and ill family members, resulting in pay cuts and thus,
-                    impacting the quality of life. With the intention to help
-                    such people, I started my journey in the home care industry
-                    in 2018 as a medium to assist the marginalized communities
-                    to enable them to make money and become financially
-                    independent by taking care of their family members who are
-                    elderly and/or have disability or long term illness. As a
-                    home and day care owner for several years, I have worked
-                    with numerous clients and was able to maintain an
-                    outstanding relationship with the clients and communities
-                    served.
+                    "Since my youth, I have been deeply committed to community
+                    engagement. As a refugee immigrant to the United States, I
+                    experienced firsthand the challenges faced by community
+                    members, which fueled my passion for helping others. I
+                    noticed that many individuals were forced to miss work to
+                    care for elderly or ill family members, leading to financial
+                    strain and diminished quality of life. In 2018, I entered
+                    the home care industry to support marginalized communities,
+                    empowering them to achieve financial independence by caring
+                    for their loved ones who are elderly or have disabilities or
+                    long-term illnesses. As the owner of a home and day care
+                    facility for several years, I have worked closely with
+                    numerous clients, fostering strong, lasting relationships
+                    within the communities I serve.
                   </p>
                   <p className="mt-6">
                     {" "}
-                    In the year, 2019, I also started non-emergency medical
-                    transportation to provide safe and reliable transportation
-                    services for Medicaid members. Many community members were
-                    missing hospital appointments, medicine refilling due to
-                    barriers such as lack of transportation and English speaking
-                    ability. My team and I wanted to ensure that Namaste became
-                    the bridge between community members and health providers so
-                    that members can receive health care regardless of the
-                    unfortunate barriers.
+                    In 2019, I expanded my efforts by launching a non-emergency
+                    medical transportation service to provide safe and reliable
+                    transportation for Medicaid members. Recognizing that many
+                    community members were missing critical hospital
+                    appointments and medication refills due to transportation
+                    barriers and language difficulties, my team and I aimed to
+                    make Namaste a vital link between these individuals and
+                    healthcare providers, ensuring that they receive the care
+                    they need despite these challenges.
                   </p>
 
                   <p className="mt-6">
-                    In 2023, I decided to establish Caring Hands Home Care LLC
-                    along with my two partners Chhusang and Dj to help the
-                    seniors, elderly, mentally and physically challenged adults
-                    to provide home care services in the comfort of their own
-                    home. Our hope is that we prioritize our client’s needs and
-                    health with utmost respect, care, and morale and lead our
-                    clients to living long, healthy, and fulfilling lives. "
+                    Most recently, in 2023, I co-founded Caring Hands Home Care
+                    LLC with my partners, Chhusang and DJ, to extend our
+                    services to seniors, elderly individuals, and adults with
+                    mental and physical challenges. Our mission is to prioritize
+                    our clients' needs and health with the utmost respect, care,
+                    and integrity, helping them lead long, healthy, and
+                    fulfilling lives from the comfort of their own homes."
                   </p>
                 </div>
               </div>
@@ -173,37 +170,37 @@ const Team = () => {
                 </p>
                 <div className="max-w-base text-sm italic">
                   <p className="mt-6">
-                    "I have been in the helping profession ever since I was a
-                    little girl, whether by actively volunteering in non-profit
-                    organizations in my home country, Nepal, or gathering
-                    neighborhood kids in the evening to help them with homework
-                    or school projects. The culture of care and help in me stems
-                    from my upbringing in a close knit community that values
-                    sharing, showing up, and becoming resilient despite the
-                    difficult circumstances. These values have opened wonderful
-                    opportunities for me in various places. While in school, I
-                    had the opportunity to volunteer at a public library to
-                    teach English language to Moroccan and Turkish refugees who
-                    were working hard to build lives in Spain. English is my
-                    third language so I had to put more effort and longer hours
-                    to design lesson plans and curriculum. What kept me going
-                    were the determined and resilient students who would show up
-                    to my className everyday with a big smile and homemade meals
-                    to share.
+                    "From a young age, I have been deeply engaged in the helping
+                    profession, whether through volunteering with non-profit
+                    organizations in my home country of Nepal or organizing
+                    neighborhood children in the evenings to assist with
+                    homework and school projects. My upbringing in a close-knit
+                    community that values sharing, support, and resilience has
+                    instilled in me a strong commitment to caring for others.
+                    These values have opened doors to meaningful opportunities
+                    in various settings. While still in school, I had the chance
+                    to volunteer at a public library in Spain, where I taught
+                    English to Moroccan and Turkish refugees striving to build
+                    new lives. As English is my third language, I dedicated
+                    extra time and effort to designing lesson plans and
+                    curriculum. What fueled my perseverance were the determined
+                    and resilient students who attended my classes every day,
+                    greeting me with big smiles and sharing homemade meals.
                   </p>
                   <p className="mt-8">
-                    In the US, I have had the opportunity to work in various
-                    helping industries such as mental health clinics, public
-                    agencies, home care agencies, non-profit organizations, etc.
+                    In the United States, I have continued my journey in the
+                    helping professions, working in diverse fields such as
+                    mental health clinics, public agencies, home care services,
+                    and non-profit organizations.
                   </p>
                   <p className="mt-8">
-                    In summary, all my work comes down to helping people,
-                    showing up for people, and empowering people to learn from
-                    each other. With the same determination and grit, I joined
-                    Caring Hands Home Care to help Coloradan families become
-                    healthy, happy, and empowered by providing their family
-                    members with trustworthy and quality home care services at
-                    the comfort of their home."
+                    In essence, my work has always centered around helping
+                    others, being present for them, and empowering people to
+                    learn and grow together. With the same dedication and
+                    resolve, I joined Caring Hands Home Care to support Colorado
+                    families by providing reliable, high-quality home care
+                    services, ensuring their loved ones receive the care they
+                    deserve in the comfort of their own homes."
                   </p>
                 </div>
               </div>
