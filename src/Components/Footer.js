@@ -166,7 +166,7 @@ const Footer = () => {
       </div>
 
       <p className="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0 flex items-center justify-center">
-        &copy; 2024 Caring Hands Home Care
+        &copy; 2025 Caring Hands Home Care
       </p>
       <hr className="border-b border-gray-100 opacity-25 my-0 py-6" />
     </footer>
